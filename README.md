@@ -1,10 +1,8 @@
-# 🐘 Welcome to Spuffs.social – Your Guide to Mastodon
+# 🐘 Welcome to spuffs.social – Your Guide to Mastodon
 
 **Spuffs.social** is part of the Mastodon network — a decentralized, community-run alternative to Twitter/X. Whether you’re a casual poster, news junkie, or tech enthusiast, this guide will help you get started.
 
----
-
-## 🌍 What is Mastodon?
+## What is Mastodon?
 
 Mastodon is a social media platform similar to Twitter but with a twist: it's **federated**. That means there’s no single company in charge. Instead, Mastodon is made up of independently run servers (called **instances**), like **spuffs.social**, that talk to each other.
 
@@ -16,25 +14,22 @@ You can follow people on **any** Mastodon instance — not just the one you sign
 
 | Feature            | Mastodon                          | Twitter/X                        |
 |--------------------|------------------------------------|----------------------------------|
-| Ownership          | Community-run                      | Corporate                        |
+| Ownership          | Community-run                      | Nazis                            |
 | Content Feed       | Chronological (by default)         | Algorithmic                      |
 | Post Length        | 500+ characters                    | 280 characters (unless subscribed) |
 | Verification       | Self-verification via links        | Paid badge                       |
 | Ads/Tracking       | None                               | Yes                              |
 | Custom Emojis      | Yes                                | No                               |
 
----
-
-## 📝 Signing Up
+## Signing Up
 
 1. Go to [https://spuffs.social](https://spuffs.social)
 2. Click **“Create Account”**
 3. Fill in your info and agree to the rules
-4. Confirm your email — and you're in!
+4. Confirm your email.
+5. We will verify your account and let you in.
 
----
-
-## 🏠 Understanding the Interface
+## Understanding the Interface
 
 - **Home**: Posts from people you follow  
 - **Local**: Posts from everyone on **spuffs.social**  
@@ -42,9 +37,7 @@ You can follow people on **any** Mastodon instance — not just the one you sign
 - **Notifications**: Likes, replies, boosts, and follows  
 - **Explore/Search**: Hashtags, users, and trending posts  
 
----
-
-## 🐦 Tweets vs Toots
+## Tweets vs Toots vs Posts
 
 On Mastodon, posts are called **toots** (or just “posts” these days). They can include:
 
@@ -53,17 +46,15 @@ On Mastodon, posts are called **toots** (or just “posts” these days). They c
 - Polls  
 - Content Warnings (CW) — to hide spoilers, sensitive topics, etc.
 
----
-
 ## 📢 Boosts, Favs, and Replies
 
-- ❤️ **Favorite**: Like a post  
-- 🔁 **Boost**: Like a retweet — shares the post to your followers  
-- 💬 **Reply**: Starts a thread or conversation  
+- ⭐️ **Star**: Like or favorite a post. Notifies the author of the post that you liked it. The post also gets added to your favorites.
+- 🔁 **Boost**: Like a post — shares the post to your followers, allowing it to appear in their Home feed. This is a useful mechanism for spreading the reach of the post in particular.
+- 💬 ⃔ **Reply**: Starts a thread or conversation as a reply to a post.
+- 
 
----
 
-## 🔐 Privacy Controls
+## Privacy Controls
 
 When you post, you can choose who sees it:
 
@@ -71,37 +62,27 @@ When you post, you can choose who sees it:
 - 👥 **Followers Only**: Only people who follow you  
 - 📬 **Mentioned People Only**: Like a direct message (but not end-to-end encrypted)  
 
----
-
-## 📷 Media Tips
+## Media Tips
 
 - Up to 4 images per post  
 - Videos and audio are supported  
 - You can add alt text for accessibility  
 - Use the CW feature to hide spoilers or sensitive images  
 
----
-
 ## 🔍 Finding People
 
 - You can follow users on other instances like: `@coolperson@mastodon.social`  
 - Use search to find people by username, hashtag, or post content  
 
----
-
-## 🛠️ Customize Your Experience
+## Customize Your Experience
 
 - Use **filters** to hide content you don't want to see  
 - Explore **third-party apps** or use the official Mastodon mobile app  
 - Enable **dark mode**, change **language**, and more in settings  
 
----
-
 ## 🤝 Community Guidelines
 
 Each instance has its own rules. On **spuffs.social**, we focus on being kind, respectful, and spam-free. Read the full guidelines [here](https://spuffs.social/about).
-
----
 
 ## 💡 Quick Tips
 
