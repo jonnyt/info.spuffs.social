@@ -52,8 +52,8 @@ On Mastodon, posts are called **toots** (or just “posts” these days). They c
 ## Boosts, Stars, Replies, Bookmarks
 ---
 
+- 🔁 **Boost**: Shares the post to your followers, allowing it to appear in their Home feed. This is a useful mechanism for spreading the reach of the post in particular.
 - ⭐️ **Star**: Like or favorite a post. Notifies the author of the post that you liked it. The post also gets added to your favorites.
-- 🔁 **Boost**: Like a post — shares the post to your followers, allowing it to appear in their Home feed. This is a useful mechanism for spreading the reach of the post in particular.
 - 💬 ⃔ **Reply**: Starts a thread or conversation as a reply to a post.
 - 🔖 **Bookmark**: It adds it to your bookmarks, allowing you to more easily find the post again later on. Does not notify the author that you bookmarked their post. It's just for your own use.
 
