@@ -8,7 +8,7 @@ Mastodon is a social media platform similar to Twitter but with a twist: it's **
 
 You can follow people on **any** Mastodon instance — not just the one you signed up on.
 
-## ✨ Key Differences From Twitter
+## Key Differences From Twitter
 
 | Feature            | Mastodon                          | Twitter/X                        |
 |--------------------|------------------------------------|----------------------------------|
@@ -44,7 +44,7 @@ On Mastodon, posts are called **toots** (or just “posts” these days). They c
 - Polls  
 - Content Warnings (CW) — to hide spoilers, sensitive topics, etc.
 
-## 📢 Boosts, Favs, and Replies
+## Boosts, Stars, Replies, Bookmarks
 
 - ⭐️ **Star**: Like or favorite a post. Notifies the author of the post that you liked it. The post also gets added to your favorites.
 - 🔁 **Boost**: Like a post — shares the post to your followers, allowing it to appear in their Home feed. This is a useful mechanism for spreading the reach of the post in particular.
