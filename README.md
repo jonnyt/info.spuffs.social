@@ -8,8 +8,6 @@ Mastodon is a social media platform similar to Twitter but with a twist: it's **
 
 You can follow people on **any** Mastodon instance — not just the one you signed up on.
 
----
-
 ## ✨ Key Differences From Twitter
 
 | Feature            | Mastodon                          | Twitter/X                        |
@@ -51,8 +49,7 @@ On Mastodon, posts are called **toots** (or just “posts” these days). They c
 - ⭐️ **Star**: Like or favorite a post. Notifies the author of the post that you liked it. The post also gets added to your favorites.
 - 🔁 **Boost**: Like a post — shares the post to your followers, allowing it to appear in their Home feed. This is a useful mechanism for spreading the reach of the post in particular.
 - 💬 ⃔ **Reply**: Starts a thread or conversation as a reply to a post.
-- 
-
+- 🔖 **Bookmark**: It adds it to your bookmarks, allowing you to more easily find the post again later on. Does not notify the author that you bookmarked their post. It's just for your own use.
 
 ## Privacy Controls
 
@@ -91,10 +88,6 @@ Each instance has its own rules. On **spuffs.social**, we focus on being kind, r
 - Link to your Mastodon profile from your website to verify your identity  
 - Use hashtags to get your posts seen across the network  
 
----
-
 ## ❤️ Made With Love on Spuffs.social
 
 You’re part of a friendly and growing community. Explore, post, boost cool stuff, and have fun!
-
----
