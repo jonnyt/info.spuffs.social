@@ -104,3 +104,5 @@ Each instance has its own rules. On **spuffs.social**, we focus on being kind, r
 ---
 
 You’re part of a friendly and growing community. Explore, post, boost cool stuff, and have fun!
+
+<a rel="me" href="https://spuffs.social/@jonathont">Mastodon</a>
