@@ -42,7 +42,7 @@ You can follow people on **any** Mastodon instance — not just the one you sign
 ## Tweets vs Toots vs Posts
 ---
 
-On Mastodon, posts are called **toots** (or just “posts” these days). They can include:
+On Mastodon, posts are called **toots** (or just **posts** these days). They can include:
 
 - Text (500+ characters)  
 - Images, videos, audio  
@@ -98,7 +98,29 @@ Each instance has its own rules. On **spuffs.social**, we focus on being kind, r
 - Add a bio and avatar to help people find you  
 - Pin important posts to your profile  
 - Link to your Mastodon profile from your website to verify your identity  
-- Use hashtags to get your posts seen across the network  
+- Use hashtags to get your posts seen across the network
+
+## Following people in other instances
+---
+
+You can follow people outside of the spuffs.social instance.  This allows you to see posts from them in your **Other Servers** live feeds (web interface) or **Live feed** (mobile app).
+
+### Method 1: From their profile
+
+1. Copy the person's full Mastodon handle (looks like @username@instance.social)
+2. Paste it into the search bar on your own instance
+3. Click on their profile when it appears
+4. Click the "Follow" button
+
+### Method 2: Using the remote follow feature
+
+1. Visit their profile on their instance (you'll see it in your browser)
+2. Click the "Follow" or "Subscribe" button
+3. A dialog will appear asking for your handle
+4. Enter your full Mastodon address (@yourname@yourinstance.social)
+5. You'll be redirected to your own instance to confirm the follow
+
+## Post visibility
 
 ## ❤️ Made With Love on Spuffs.social
 ---
