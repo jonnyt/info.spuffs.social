@@ -120,7 +120,11 @@ You can follow people outside of the spuffs.social instance.  This allows you to
 4. Enter your full Mastodon address (@yourname@yourinstance.social)
 5. You'll be redirected to your own instance to confirm the follow
 
-## Post visibility
+## Other people's post visibility
+
+Post/toot visibility depends on the Mastodon instance they are on and if you follow them.  The followin flowchart helps illustrate this:
+
+![The visibility of a toot.  In what timeline will a toot appear?](https://info.spuffs.social/img/seeing-followers-from-other-servers-v0-jlpgwnpjn8z91.webp)
 
 ## ❤️ Made With Love on Spuffs.social
 ---
