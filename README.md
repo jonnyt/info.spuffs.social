@@ -33,20 +33,28 @@ You can follow people on **any** Mastodon instance — not just the one you sign
 ## Understanding the Interface
 ---
 
-- **Home**: Posts from people you follow  
-- **Local**: Posts from everyone on **spuffs.social**  
-- **Federated**: Posts from across the whole Mastodon network  
-- **Notifications**: Likes, replies, boosts, and follows  
-- **Explore/Search**: Hashtags, users, and trending posts  
+- **Home**: Posts from people you follow
+- **Local**: Posts from everyone on **spuffs.social**
+- **Federated**: Posts from across the whole Mastodon network from people you follow
+- **Notifications**: Likes, replies, boosts, and follows
+- **Explore/Search**: Hashtags, users, and trending posts
+
+## 💡 Quick Tips
+---
+
+- Add a bio and avatar to help people find you
+- Pin important posts to your profile
+- Link to your Mastodon profile from your website to verify your identity
+- Use hashtags to get your posts seen across the network
 
 ## Tweets vs Toots vs Posts
 ---
 
 On Mastodon, posts are called **toots** (or just **posts** these days). They can include:
 
-- Text (500+ characters)  
-- Images, videos, audio  
-- Polls  
+- Text (500+ characters)
+- Images, videos, audio
+- Polls
 - Content Warnings (CW) — to hide spoilers, sensitive topics, etc.
 
 ## Boosts, Stars, Replies, Bookmarks
@@ -62,43 +70,36 @@ On Mastodon, posts are called **toots** (or just **posts** these days). They can
 
 When you post, you can choose who sees it:
 
-- 🌍 **Public**: Visible to everyone  
-- 👥 **Followers Only**: Only people who follow you  
-- 📬 **Mentioned People Only**: Like a direct message (but not end-to-end encrypted)  
+- 🌍 **Public**: Visible to everyone
+- 👥 **Followers Only**: Only people who follow you
+- 📬 **Mentioned People Only**: Like a direct message (but not end-to-end encrypted)
 
 ## Media Tips
 ---
 
-- Up to 4 images per post  
-- Videos and audio are supported  
-- You can add alt text for accessibility  
-- Use the CW feature to hide spoilers or sensitive images  
+- Up to 4 images per post
+- Videos and audio are supported
+- You can add alt text for accessibility
+- Use the CW feature to hide spoilers or sensitive images
 
 ## 🔍 Finding People
 ---
 
-- You can follow users on other instances like: `@coolperson@mastodon.social`  
-- Use search to find people by username, hashtag, or post content  
+- You can follow users on other instances like: `@coolperson@mastodon.social`
+- Use search to find people by username, hashtag, or post content
 
 ## Customize Your Experience
 ---
 
-- Use **filters** to hide content you don't want to see  
-- Explore **third-party apps** or use the official Mastodon mobile app  
-- Enable **dark mode**, change **language**, and more in settings  
+- Use **filters** to hide content you don't want to see
+- Explore **third-party apps** or use the official Mastodon mobile app
+- Enable **dark mode**, change **language**, and more in settings
 
 ## Community Guidelines
 ---
 
 Each instance has its own rules. On **spuffs.social**, we focus on being kind, respectful, and spam-free. Read the full guidelines [here](https://spuffs.social/about).
 
-## 💡 Quick Tips
----
-
-- Add a bio and avatar to help people find you  
-- Pin important posts to your profile  
-- Link to your Mastodon profile from your website to verify your identity  
-- Use hashtags to get your posts seen across the network
 
 ## Following people in other instances
 ---
@@ -124,7 +125,7 @@ You can follow people outside of the spuffs.social instance.  This allows you to
 
 Post/toot visibility depends on the Mastodon instance they are on and if you follow them.  The followin flowchart helps illustrate this:
 
-![The visibility of a toot.  In what timeline will a toot appear?](https://info.spuffs.social/img/seeing-followers-from-other-servers-v0-jlpgwnpjn8z91.webp)
+![The visibility of a toot.  In what timeline will a toot appear?](/img/seeing-followers-from-other-servers-v0-jlpgwnpjn8z91.webp)
 
 ## ❤️ Made With Love on Spuffs.social
 ---
